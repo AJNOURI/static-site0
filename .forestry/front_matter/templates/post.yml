@@ -1,4 +1,6 @@
 ---
+pages:
+- test-post.html
 hide_body: false
 fields:
 - name: title
